@@ -1,0 +1,8 @@
+{
+  "name": "EM Virtual Lab",
+  "description": "Interactive Electric and Magnetic Field Simulator for physics and electrical engineering with real-time vector, flux, induction, and wave laboratories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
